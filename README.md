@@ -1,4 +1,4 @@
-## Hi there, I'm Falah wave 👋
+## Hi there, I'm Falah 👋
 
 I like to call myself an AI-native product manager and operator. I am interested new AI products, how they are built and deployed. 
 
