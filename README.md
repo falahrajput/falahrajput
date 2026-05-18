@@ -4,4 +4,4 @@ I am an AI-native product manager and operator. I am interested in new AI produc
 
 I like seeing how data, design and systems can come together to solve real-world problems. 
 
-You can learn more about me and my work at: https://falahrajput.com/
+You can learn more about me and my work both here on Github and at: https://falahrajput.com/
