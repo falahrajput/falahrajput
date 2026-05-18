@@ -1,6 +1,6 @@
 ## Hi there, I'm Falah 👋
 
-I like to call myself an AI-native product manager and operator. I am interested new AI products, how they are built and deployed. 
+I am an AI-native product manager and operator. I am interested in new AI products and systems and how they are built.
 
 I like seeing how design. data and systems can come together to solve real-world business problems. 
 
